@@ -51,8 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ehsansahil/CrackPlacement/tree/master/0232-implement-queue-using-stacks) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0680-valid-palindrome-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ehsansahil/CrackPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ehsansahil/CrackPlacement/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
