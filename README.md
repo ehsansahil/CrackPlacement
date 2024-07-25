@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ehsansahil/CrackPlacement/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ehsansahil/CrackPlacement/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Design
 |  |
@@ -76,8 +78,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0022-generate-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
