@@ -102,4 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ehsansahil/CrackPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
