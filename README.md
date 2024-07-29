@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ehsansahil/CrackPlacement/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ehsansahil/CrackPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ehsansahil/CrackPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0022-generate-parentheses) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ehsansahil/CrackPlacement/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
