@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ehsansahil/CrackPlacement/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ehsansahil/CrackPlacement/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ehsansahil/CrackPlacement/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
