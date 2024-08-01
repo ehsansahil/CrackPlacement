@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehsansahil/CrackPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ehsansahil/CrackPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ehsansahil/CrackPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/ehsansahil/CrackPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ehsansahil/CrackPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0227-basic-calculator-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ehsansahil/CrackPlacement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/ehsansahil/CrackPlacement/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ehsansahil/CrackPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ehsansahil/CrackPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
