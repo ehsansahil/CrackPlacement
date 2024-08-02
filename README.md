@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ehsansahil/CrackPlacement/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/ehsansahil/CrackPlacement/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ehsansahil/CrackPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ehsansahil/CrackPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ehsansahil/CrackPlacement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ehsansahil/CrackPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0227-basic-calculator-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ehsansahil/CrackPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
