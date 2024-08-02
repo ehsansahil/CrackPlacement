@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehsansahil/CrackPlacement/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/ehsansahil/CrackPlacement/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ehsansahil/CrackPlacement/tree/master/0078-subsets) |
 ## Binary Search
 |  |
