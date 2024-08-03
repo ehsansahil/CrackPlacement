@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ehsansahil/CrackPlacement/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ehsansahil/CrackPlacement/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ehsansahil/CrackPlacement/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ehsansahil/CrackPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
@@ -152,9 +154,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ehsansahil/CrackPlacement/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ehsansahil/CrackPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ehsansahil/CrackPlacement/tree/master/0067-add-binary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
