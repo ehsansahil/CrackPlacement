@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/ehsansahil/CrackPlacement/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ehsansahil/CrackPlacement/tree/master/0078-subsets) |
+| [0134-gas-station](https://github.com/ehsansahil/CrackPlacement/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/ehsansahil/CrackPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ehsansahil/CrackPlacement/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ehsansahil/CrackPlacement/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Design
