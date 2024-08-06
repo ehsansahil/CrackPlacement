@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ehsansahil/CrackPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0040-combination-sum-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehsansahil/CrackPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ehsansahil/CrackPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehsansahil/CrackPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehsansahil/CrackPlacement/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ehsansahil/CrackPlacement/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ehsansahil/CrackPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ehsansahil/CrackPlacement/tree/master/0680-valid-palindrome-ii) |
