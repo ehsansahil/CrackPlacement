@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ehsansahil/CrackPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0543-diameter-of-binary-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/ehsansahil/CrackPlacement/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ehsansahil/CrackPlacement/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ehsansahil/CrackPlacement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
